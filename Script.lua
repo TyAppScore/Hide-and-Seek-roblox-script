@@ -1,3 +1,6 @@
+--copy this loadstring(game:HttpGet('https://raw.githubusercontent.com/TyAppScore/Hide-and-Seek-roblox-script/refs/heads/main/Script.lua'))()
+--or copy script what downer--
+
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library", true))()
 local window = library:AddWindow("🔰By TyAppScore🔰", {
 	main_color = Color3.fromRGB(234, 74, 122), -- Color
